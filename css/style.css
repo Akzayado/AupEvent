@@ -985,7 +985,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #hotels .hotel-img img {
   transition: 0.3s ease-in-out;
-  max-height: 350px;
+  max-height: 300px;
   background-attachment: cover;
 }
 
