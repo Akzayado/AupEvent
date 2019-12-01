@@ -985,6 +985,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #hotels .hotel-img img {
   transition: 0.3s ease-in-out;
+  max-height: 300px;
+  background-attachment: cover;
 }
 
 #hotels h3 {
@@ -1002,14 +1004,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #f82249;
 }
 
-#hotels .stars {
-  padding: 0 20px;
-  margin-bottom: 5px;
-}
 
-#hotels .stars i {
-  color: #ffc31d;
-}
+
 
 #hotels p {
   padding: 0 20px;
@@ -1017,6 +1013,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #060c22;
   font-style: italic;
   font-size: 15px;
+
 }
 
 /*--------------------------------------------------------------
