@@ -676,10 +676,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about h2 {
   font-size: 36px;
- text-justify: newspaper;
-  font-weight: bold;
+  font-weight: 700;
   margin-bottom: 10px;
-  color: #fff;
+  color: #fff
   
 }
 
