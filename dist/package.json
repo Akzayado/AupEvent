@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/2047584/AupEvent/issues"
   },
-  "homepage": "https://github.com/2047584/AupEvent#readme"
+  "homepage": "https://github.com/2047584/AupEvent#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
